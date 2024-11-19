@@ -22,3 +22,6 @@ O back-end foi implementado com NodeJS, que é uma ferramenta que permite simula
 O banco de dados foi implementado com MongoDB, um software de banco de dados não relacional, NoSQL, orientado a documentos, ao invés de tabelas e linhas. Ele foi escolhido por causa da sua fácil implementação com o NodeJS através da biblioteca mongoose.
 
 Por último, foi utilizado o Expo, uma plataforma para fazer apps nativos para diversos sistemas com React e Javascript, para simulação do aplicativo. Ele foi usado através da sua biblioteca para o NodeJS.
+## Prototipação
+Como foi dito anteriormente, a prototipação do projeto foi feita no Figma. Nela criamos tanto um protótipo de baixo nível para poder organizar as ideias quanto um de alto nível que foi base para o front-end. Veja abaixo o projeto
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/hXpHsgBAjNOz7ublMsMPq1/Projeto-App-de-Gerenciamento-de-Tarefas?node-id=0-1&embed-host=share" allowfullscreen></iframe>
