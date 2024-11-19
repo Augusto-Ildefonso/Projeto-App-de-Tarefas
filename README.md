@@ -23,5 +23,5 @@ O banco de dados foi implementado com MongoDB, um software de banco de dados nã
 
 Por último, foi utilizado o Expo, uma plataforma para fazer apps nativos para diversos sistemas com React e Javascript, para simulação do aplicativo. Ele foi usado através da sua biblioteca para o NodeJS.
 ## Prototipação
-Como foi dito anteriormente, a prototipação do projeto foi feita no Figma. Nela criamos tanto um protótipo de baixo nível para poder organizar as ideias quanto um de alto nível que foi base para o front-end. Veja abaixo o projeto
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/hXpHsgBAjNOz7ublMsMPq1/Projeto-App-de-Gerenciamento-de-Tarefas?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+Como foi dito anteriormente, a prototipação do projeto foi feita no Figma. Nela criamos tanto um protótipo de baixo nível para poder organizar as ideias quanto um de alto nível que foi base para o front-end. Você pode checar a prototipação [nesse link](https://www.figma.com/design/hXpHsgBAjNOz7ublMsMPq1/Projeto-App-de-Gerenciamento-de-Tarefas?node-id=0-1&t=BkTlSOh4iuVG4pBd-1). Veja abaixo a visão geral do protótipo.
+![Visão geral do protótipo](https://raw.githubusercontent.com/Augusto-Ildefonso/Projeto-App-de-Tarefas/refs/heads/master/images/Prototipa%C3%A7%C3%A3o.png)
