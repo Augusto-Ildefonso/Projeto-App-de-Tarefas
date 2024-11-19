@@ -3,7 +3,7 @@ Abaixo seguem os repositórios do front-end e do back-end:
 - [Front-end](https://github.com/Augusto-Ildefonso/Front-End-Projeto-App-Tarefas)
 - [Back-end](https://github.com/Augusto-Ildefonso/Back-End-Projeto-Tarefas)
 
-Além disso, nesse repositório se encontra a documentação do projeto, tanto em PDF quanto em DOCX.
+Além disso, nesse repositório se encontra a documentação do projeto, tanto em [PDF](https://github.com/Augusto-Ildefonso/Projeto-App-de-Tarefas/blob/master/Documenta%C3%A7%C3%A3o.pdf) quanto em [DOCX](https://github.com/Augusto-Ildefonso/Projeto-App-de-Tarefas/blob/master/Documenta%C3%A7%C3%A3o.docx).
 ## Geral
 ### Descrição do projeto
 O projeto consiste em um aplicativo mobile, tanto iOS quanto Android, de gerenciamento de tarefas. Nesse app, o usuário poderá adicionar tarefas com diversas propriedades, como nome, data de entrega, horário, descrição e status. Além disso, ele poderá editá-las e excluí-las, ou então, adicionar uma tarefa rápida que terá apenas nome.
